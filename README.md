@@ -7,4 +7,4 @@ Built using image processing model Oxford102 - Classifying images in the Oxford 
 
 The Model will only return the 'correct' flower if it's confidence level is greater than 0.2, i.e more than 20% certain.
 
-For more information about how the Flower Dataset was generated please click the link [here.](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+For more information about how the Flower Dataset was generated please click [here.](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
