@@ -1,7 +1,7 @@
 # Flower-Classification
 An iOS11 Flower Classification app using CoreML.
 
-Built using image processing model Oxford102 - Classifying images in the Oxford 102 flower dataset with CNNs.
+Built using image processing model Oxford102 - Classifying images in the Oxford 102 flower dataset.
 
 <img src="https://github.com/ajvelo/Flower-Classification/blob/master/screenShot_1.PNG" width="250" height="350"> <img src="https://github.com/ajvelo/Flower-Classification/blob/master/screenShot_2.PNG" width="250" height="350">
 
